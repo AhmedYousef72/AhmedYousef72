@@ -1,3 +1,4 @@
+<div align="center">
 # Hi, I'm Ahmed Yousef 👋
 
 **📱 Flutter Developer | Computer Science Graduate**
@@ -7,6 +8,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedYousef72)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedYousef72&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
 
